@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="ua.ho.android.myweather">
+    package="ua.ho.android.myweather"
+    tools:ignore="ImpliedTouchscreenHardware,MissingLeanbackLauncher">
 
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION"
-        tools:ignore="MockLocation" />
+    <uses-feature
+        android:name="android.software.leanback"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
     <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
 
     <application
@@ -23,6 +28,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/MY_API_KEY"/>
+
+
     </application>
 
 </manifest>
