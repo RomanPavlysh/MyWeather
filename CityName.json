@@ -1,0 +1,546 @@
+{
+  "results" : [
+    {
+      "address_components" : [
+        {
+          "long_name" : "22",
+          "short_name" : "22",
+          "types" : [ "street_number" ]
+        },
+        {
+          "long_name" : "вул. Хрещатик",
+          "short_name" : "вул. Хрещатик",
+          "types" : [ "route" ]
+        },
+        {
+          "long_name" : "Шевченківський район",
+          "short_name" : "Шевченківський район",
+          "types" : [ "political", "sublocality", "sublocality_level_1" ]
+        },
+        {
+          "long_name" : "Київ",
+          "short_name" : "Київ",
+          "types" : [ "locality", "political" ]
+        },
+        {
+          "long_name" : "місто Київ",
+          "short_name" : "місто Київ",
+          "types" : [ "administrative_area_level_2", "political" ]
+        },
+        {
+          "long_name" : "город Киев",
+          "short_name" : "город Киев",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Украина",
+          "short_name" : "UA",
+          "types" : [ "country", "political" ]
+        },
+        {
+          "long_name" : "02000",
+          "short_name" : "02000",
+          "types" : [ "postal_code" ]
+        }
+      ],
+      "formatted_address" : "вул. Хрещатик, 22, Київ, Украина, 02000",
+      "geometry" : {
+        "location" : {
+          "lat" : 50.4498501,
+          "lng" : 30.5231508
+        },
+        "location_type" : "ROOFTOP",
+        "viewport" : {
+          "northeast" : {
+            "lat" : 50.4511990802915,
+            "lng" : 30.5244997802915
+          },
+          "southwest" : {
+            "lat" : 50.4485011197085,
+            "lng" : 30.5218018197085
+          }
+        }
+      },
+      "place_id" : "ChIJb09PiFbO1EARwHaSXrz_Bs0",
+      "types" : [ "street_address" ]
+    },
+    {
+      "address_components" : [
+        {
+          "long_name" : "Майдан Независимости",
+          "short_name" : "Майдан Независимости",
+          "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+          ]
+        },
+        {
+          "long_name" : "Шевченківський район",
+          "short_name" : "Шевченківський район",
+          "types" : [ "political", "sublocality", "sublocality_level_1" ]
+        },
+        {
+          "long_name" : "Київ",
+          "short_name" : "Київ",
+          "types" : [ "locality", "political" ]
+        },
+        {
+          "long_name" : "місто Київ",
+          "short_name" : "місто Київ",
+          "types" : [ "administrative_area_level_2", "political" ]
+        },
+        {
+          "long_name" : "город Киев",
+          "short_name" : "город Киев",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Украина",
+          "short_name" : "UA",
+          "types" : [ "country", "political" ]
+        },
+        {
+          "long_name" : "02000",
+          "short_name" : "02000",
+          "types" : [ "postal_code" ]
+        }
+      ],
+      "formatted_address" : "Майдан Независимости, Київ, Украина, 02000",
+      "geometry" : {
+        "location" : {
+          "lat" : 50.44993359999999,
+          "lng" : 30.5238713
+        },
+        "location_type" : "GEOMETRIC_CENTER",
+        "viewport" : {
+          "northeast" : {
+            "lat" : 50.45128258029149,
+            "lng" : 30.5252202802915
+          },
+          "southwest" : {
+            "lat" : 50.44858461970849,
+            "lng" : 30.5225223197085
+          }
+        }
+      },
+      "place_id" : "ChIJXSyBBlHO1EARqY-HAwT2GiI",
+      "types" : [
+        "establishment",
+        "point_of_interest",
+        "subway_station",
+        "transit_station"
+      ]
+    },
+    {
+      "address_components" : [
+        {
+          "long_name" : "Хрещатий яр",
+          "short_name" : "Хрещатий яр",
+          "types" : [ "neighborhood", "political" ]
+        },
+        {
+          "long_name" : "Шевченківський район",
+          "short_name" : "Шевченківський район",
+          "types" : [ "political", "sublocality", "sublocality_level_1" ]
+        },
+        {
+          "long_name" : "Київ",
+          "short_name" : "Київ",
+          "types" : [ "locality", "political" ]
+        },
+        {
+          "long_name" : "місто Київ",
+          "short_name" : "місто Київ",
+          "types" : [ "administrative_area_level_2", "political" ]
+        },
+        {
+          "long_name" : "город Киев",
+          "short_name" : "город Киев",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Украина",
+          "short_name" : "UA",
+          "types" : [ "country", "political" ]
+        },
+        {
+          "long_name" : "02000",
+          "short_name" : "02000",
+          "types" : [ "postal_code" ]
+        }
+      ],
+      "formatted_address" : "Хрещатий яр, Київ, Украина, 02000",
+      "geometry" : {
+        "bounds" : {
+          "northeast" : {
+            "lat" : 50.4555734,
+            "lng" : 30.5312284
+          },
+          "southwest" : {
+            "lat" : 50.4423956,
+            "lng" : 30.51725029999999
+          }
+        },
+        "location" : {
+          "lat" : 50.4539002,
+          "lng" : 30.5291903
+        },
+        "location_type" : "APPROXIMATE",
+        "viewport" : {
+          "northeast" : {
+            "lat" : 50.4555734,
+            "lng" : 30.5312284
+          },
+          "southwest" : {
+            "lat" : 50.4423956,
+            "lng" : 30.51725029999999
+          }
+        }
+      },
+      "place_id" : "ChIJO-B5O1HO1EARMpwFlJvqfa0",
+      "types" : [ "neighborhood", "political" ]
+    },
+    {
+      "address_components" : [
+        {
+          "long_name" : "Шевченковский район",
+          "short_name" : "Шевченковский район",
+          "types" : [ "political", "sublocality", "sublocality_level_1" ]
+        },
+        {
+          "long_name" : "Киев",
+          "short_name" : "Киев",
+          "types" : [ "locality", "political" ]
+        },
+        {
+          "long_name" : "город Киев",
+          "short_name" : "город Киев",
+          "types" : [ "administrative_area_level_2", "political" ]
+        },
+        {
+          "long_name" : "город Киев",
+          "short_name" : "город Киев",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Украина",
+          "short_name" : "UA",
+          "types" : [ "country", "political" ]
+        },
+        {
+          "long_name" : "02000",
+          "short_name" : "02000",
+          "types" : [ "postal_code" ]
+        }
+      ],
+      "formatted_address" : "Шевченковский район, Киев, Украина, 02000",
+      "geometry" : {
+        "bounds" : {
+          "northeast" : {
+            "lat" : 50.4869029,
+            "lng" : 30.5280638
+          },
+          "southwest" : {
+            "lat" : 50.4385319,
+            "lng" : 30.3957135
+          }
+        },
+        "location" : {
+          "lat" : 50.4642048,
+          "lng" : 30.4664647
+        },
+        "location_type" : "APPROXIMATE",
+        "viewport" : {
+          "northeast" : {
+            "lat" : 50.4869029,
+            "lng" : 30.5280638
+          },
+          "southwest" : {
+            "lat" : 50.4385319,
+            "lng" : 30.3957135
+          }
+        }
+      },
+      "place_id" : "ChIJRyylA4XO1EARwOBJE0LZVwo",
+      "types" : [ "political", "sublocality", "sublocality_level_1" ]
+    },
+    {
+      "address_components" : [
+        {
+          "long_name" : "Киев",
+          "short_name" : "Киев",
+          "types" : [ "locality", "political" ]
+        },
+        {
+          "long_name" : "город Киев",
+          "short_name" : "город Киев",
+          "types" : [ "administrative_area_level_2", "political" ]
+        },
+        {
+          "long_name" : "город Киев",
+          "short_name" : "город Киев",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Украина",
+          "short_name" : "UA",
+          "types" : [ "country", "political" ]
+        },
+        {
+          "long_name" : "02000",
+          "short_name" : "02000",
+          "types" : [ "postal_code" ]
+        }
+      ],
+      "formatted_address" : "Киев, Украина, 02000",
+      "geometry" : {
+        "bounds" : {
+          "northeast" : {
+            "lat" : 50.590798,
+            "lng" : 30.825941
+          },
+          "southwest" : {
+            "lat" : 50.213273,
+            "lng" : 30.2394401
+          }
+        },
+        "location" : {
+          "lat" : 50.4501,
+          "lng" : 30.5234
+        },
+        "location_type" : "APPROXIMATE",
+        "viewport" : {
+          "northeast" : {
+            "lat" : 50.590798,
+            "lng" : 30.825941
+          },
+          "southwest" : {
+            "lat" : 50.213273,
+            "lng" : 30.2394401
+          }
+        }
+      },
+      "place_id" : "ChIJBUVa4U7P1EAR_kYBF9IxSXY",
+      "types" : [ "locality", "political" ]
+    },
+    {
+      "address_components" : [
+        {
+          "long_name" : "02000",
+          "short_name" : "02000",
+          "types" : [ "postal_code" ]
+        },
+        {
+          "long_name" : "Киев",
+          "short_name" : "Киев",
+          "types" : [ "locality", "political" ]
+        },
+        {
+          "long_name" : "город Киев",
+          "short_name" : "город Киев",
+          "types" : [ "administrative_area_level_2", "political" ]
+        },
+        {
+          "long_name" : "город Киев",
+          "short_name" : "город Киев",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Украина",
+          "short_name" : "UA",
+          "types" : [ "country", "political" ]
+        }
+      ],
+      "formatted_address" : "Киев, Украина, 02000",
+      "geometry" : {
+        "bounds" : {
+          "northeast" : {
+            "lat" : 50.590798,
+            "lng" : 30.825941
+          },
+          "southwest" : {
+            "lat" : 50.213273,
+            "lng" : 30.2394401
+          }
+        },
+        "location" : {
+          "lat" : 50.4501,
+          "lng" : 30.5234
+        },
+        "location_type" : "APPROXIMATE",
+        "viewport" : {
+          "northeast" : {
+            "lat" : 50.590798,
+            "lng" : 30.825941
+          },
+          "southwest" : {
+            "lat" : 50.213273,
+            "lng" : 30.2394401
+          }
+        }
+      },
+      "place_id" : "ChIJBUVa4U7P1EARxX1LbAvqE6A",
+      "types" : [ "postal_code" ]
+    },
+    {
+      "address_components" : [
+        {
+          "long_name" : "город Киев",
+          "short_name" : "город Киев",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Киев",
+          "short_name" : "Киев",
+          "types" : [ "locality", "political" ]
+        },
+        {
+          "long_name" : "город Киев",
+          "short_name" : "город Киев",
+          "types" : [ "administrative_area_level_2", "political" ]
+        },
+        {
+          "long_name" : "Украина",
+          "short_name" : "UA",
+          "types" : [ "country", "political" ]
+        },
+        {
+          "long_name" : "02000",
+          "short_name" : "02000",
+          "types" : [ "postal_code" ]
+        }
+      ],
+      "formatted_address" : "город Киев, Киев, Украина, 02000",
+      "geometry" : {
+        "bounds" : {
+          "northeast" : {
+            "lat" : 50.590798,
+            "lng" : 30.825941
+          },
+          "southwest" : {
+            "lat" : 50.213273,
+            "lng" : 30.2394401
+          }
+        },
+        "location" : {
+          "lat" : 50.4501,
+          "lng" : 30.5234
+        },
+        "location_type" : "APPROXIMATE",
+        "viewport" : {
+          "northeast" : {
+            "lat" : 50.590798,
+            "lng" : 30.825941
+          },
+          "southwest" : {
+            "lat" : 50.213273,
+            "lng" : 30.2394401
+          }
+        }
+      },
+      "place_id" : "ChIJBUVa4U7P1EARBBiQlxMdJV8",
+      "types" : [ "administrative_area_level_1", "political" ]
+    },
+    {
+      "address_components" : [
+        {
+          "long_name" : "город Киев",
+          "short_name" : "город Киев",
+          "types" : [ "administrative_area_level_2", "political" ]
+        },
+        {
+          "long_name" : "Киев",
+          "short_name" : "Киев",
+          "types" : [ "locality", "political" ]
+        },
+        {
+          "long_name" : "город Киев",
+          "short_name" : "город Киев",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Украина",
+          "short_name" : "UA",
+          "types" : [ "country", "political" ]
+        },
+        {
+          "long_name" : "02000",
+          "short_name" : "02000",
+          "types" : [ "postal_code" ]
+        }
+      ],
+      "formatted_address" : "город Киев, Киев, Украина, 02000",
+      "geometry" : {
+        "bounds" : {
+          "northeast" : {
+            "lat" : 50.590798,
+            "lng" : 30.825941
+          },
+          "southwest" : {
+            "lat" : 50.213273,
+            "lng" : 30.2394401
+          }
+        },
+        "location" : {
+          "lat" : 50.4501,
+          "lng" : 30.5234
+        },
+        "location_type" : "APPROXIMATE",
+        "viewport" : {
+          "northeast" : {
+            "lat" : 50.590798,
+            "lng" : 30.825941
+          },
+          "southwest" : {
+            "lat" : 50.213273,
+            "lng" : 30.2394401
+          }
+        }
+      },
+      "place_id" : "ChIJBUVa4U7P1EARcgG8M175HHk",
+      "types" : [ "administrative_area_level_2", "political" ]
+    },
+    {
+      "address_components" : [
+        {
+          "long_name" : "Украина",
+          "short_name" : "UA",
+          "types" : [ "country", "political" ]
+        }
+      ],
+      "formatted_address" : "Украина",
+      "geometry" : {
+        "bounds" : {
+          "northeast" : {
+            "lat" : 52.37958099999999,
+            "lng" : 40.2285809
+          },
+          "southwest" : {
+            "lat" : 44.2924,
+            "lng" : 22.137159
+          }
+        },
+        "location" : {
+          "lat" : 48.379433,
+          "lng" : 31.1655799
+        },
+        "location_type" : "APPROXIMATE",
+        "viewport" : {
+          "northeast" : {
+            "lat" : 52.37958099999999,
+            "lng" : 40.2285809
+          },
+          "southwest" : {
+            "lat" : 44.2924,
+            "lng" : 22.137159
+          }
+        }
+      },
+      "place_id" : "ChIJjw5wVMHZ0UAREED2iIQGAQA",
+      "types" : [ "country", "political" ]
+    }
+  ],
+  "status" : "OK"
+}

@@ -1,0 +1,911 @@
+{
+  "response": {
+    "version":"0.1",
+    "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+    "features": {
+      "hourly": 1
+    }
+  }
+,
+  "hourly_forecast": [
+    {
+      "FCTTIME": {
+        "hour": "13","hour_padded": "13","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "4","mday_padded": "04","yday": "93","isdst": "1","epoch": "1522836000","pretty": "2018.04.04 13:00 EEST","civil": "1:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Середа","weekday_name_night": "В ніч на Четвер","weekday_name_abbrev": "Ср","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "62", "metric": "17"},
+      "dewpoint": {"english": "40", "metric": "4"},
+      "condition": "Ясно",
+      "icon": "clear",
+      "icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+      "fctcode": "1",
+      "sky": "29",
+      "wspd": {"english": "9", "metric": "14"},
+      "wdir": {"dir": "Пд-Зх", "degrees": "215"},
+      "wx": "Переважно сонячно",
+      "uvi": "4",
+      "humidity": "44",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "62", "metric": "17"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "0",
+      "mslp": {"english": "30.02", "metric": "1017"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "14","hour_padded": "14","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "4","mday_padded": "04","yday": "93","isdst": "1","epoch": "1522839600","pretty": "2018.04.04 14:00 EEST","civil": "2:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Середа","weekday_name_night": "В ніч на Четвер","weekday_name_abbrev": "Ср","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "64", "metric": "18"},
+      "dewpoint": {"english": "40", "metric": "4"},
+      "condition": "Ясно",
+      "icon": "clear",
+      "icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+      "fctcode": "1",
+      "sky": "25",
+      "wspd": {"english": "9", "metric": "14"},
+      "wdir": {"dir": "Пд-Зх", "degrees": "222"},
+      "wx": "Переважно сонячно",
+      "uvi": "3",
+      "humidity": "41",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "64", "metric": "18"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "0",
+      "mslp": {"english": "30.01", "metric": "1016"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "15","hour_padded": "15","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "4","mday_padded": "04","yday": "93","isdst": "1","epoch": "1522843200","pretty": "2018.04.04 15:00 EEST","civil": "3:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Середа","weekday_name_night": "В ніч на Четвер","weekday_name_abbrev": "Ср","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "65", "metric": "18"},
+      "dewpoint": {"english": "40", "metric": "4"},
+      "condition": "Ясно",
+      "icon": "clear",
+      "icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+      "fctcode": "1",
+      "sky": "19",
+      "wspd": {"english": "9", "metric": "14"},
+      "wdir": {"dir": "Пд-Зх", "degrees": "222"},
+      "wx": "Сонячно",
+      "uvi": "3",
+      "humidity": "40",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "65", "metric": "18"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "0",
+      "mslp": {"english": "30.01", "metric": "1016"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "16","hour_padded": "16","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "4","mday_padded": "04","yday": "93","isdst": "1","epoch": "1522846800","pretty": "2018.04.04 16:00 EEST","civil": "4:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Середа","weekday_name_night": "В ніч на Четвер","weekday_name_abbrev": "Ср","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "65", "metric": "18"},
+      "dewpoint": {"english": "41", "metric": "5"},
+      "condition": "Ясно",
+      "icon": "clear",
+      "icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+      "fctcode": "1",
+      "sky": "8",
+      "wspd": {"english": "8", "metric": "13"},
+      "wdir": {"dir": "Пд-Зх", "degrees": "215"},
+      "wx": "Сонячно",
+      "uvi": "2",
+      "humidity": "41",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "65", "metric": "18"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "0",
+      "mslp": {"english": "29.99", "metric": "1016"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "17","hour_padded": "17","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "4","mday_padded": "04","yday": "93","isdst": "1","epoch": "1522850400","pretty": "2018.04.04 17:00 EEST","civil": "5:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Середа","weekday_name_night": "В ніч на Четвер","weekday_name_abbrev": "Ср","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "64", "metric": "18"},
+      "dewpoint": {"english": "44", "metric": "7"},
+      "condition": "Ясно",
+      "icon": "clear",
+      "icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+      "fctcode": "1",
+      "sky": "2",
+      "wspd": {"english": "6", "metric": "10"},
+      "wdir": {"dir": "Пд-Пд-Зх", "degrees": "202"},
+      "wx": "Сонячно",
+      "uvi": "1",
+      "humidity": "47",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "64", "metric": "18"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "0",
+      "mslp": {"english": "29.98", "metric": "1015"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "18","hour_padded": "18","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "4","mday_padded": "04","yday": "93","isdst": "1","epoch": "1522854000","pretty": "2018.04.04 18:00 EEST","civil": "6:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Середа","weekday_name_night": "В ніч на Четвер","weekday_name_abbrev": "Ср","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "63", "metric": "17"},
+      "dewpoint": {"english": "45", "metric": "7"},
+      "condition": "Ясно",
+      "icon": "clear",
+      "icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+      "fctcode": "1",
+      "sky": "0",
+      "wspd": {"english": "5", "metric": "8"},
+      "wdir": {"dir": "Пд", "degrees": "183"},
+      "wx": "Сонячно",
+      "uvi": "0",
+      "humidity": "51",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "63", "metric": "17"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "0",
+      "mslp": {"english": "29.98", "metric": "1015"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "19","hour_padded": "19","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "4","mday_padded": "04","yday": "93","isdst": "1","epoch": "1522857600","pretty": "2018.04.04 19:00 EEST","civil": "7:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Середа","weekday_name_night": "В ніч на Четвер","weekday_name_abbrev": "Ср","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "60", "metric": "16"},
+      "dewpoint": {"english": "45", "metric": "7"},
+      "condition": "Ясно",
+      "icon": "clear",
+      "icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+      "fctcode": "1",
+      "sky": "0",
+      "wspd": {"english": "5", "metric": "8"},
+      "wdir": {"dir": "Пд", "degrees": "171"},
+      "wx": "Сонячно",
+      "uvi": "0",
+      "humidity": "57",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "60", "metric": "16"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "1",
+      "mslp": {"english": "29.98", "metric": "1015"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "20","hour_padded": "20","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "4","mday_padded": "04","yday": "93","isdst": "1","epoch": "1522861200","pretty": "2018.04.04 20:00 EEST","civil": "8:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Середа","weekday_name_night": "В ніч на Четвер","weekday_name_abbrev": "Ср","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "57", "metric": "14"},
+      "dewpoint": {"english": "44", "metric": "7"},
+      "condition": "Ясно",
+      "icon": "clear",
+      "icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+      "fctcode": "1",
+      "sky": "0",
+      "wspd": {"english": "5", "metric": "8"},
+      "wdir": {"dir": "Пд", "degrees": "172"},
+      "wx": "Безхмарно",
+      "uvi": "0",
+      "humidity": "63",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "57", "metric": "14"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "2",
+      "mslp": {"english": "29.99", "metric": "1016"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "21","hour_padded": "21","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "4","mday_padded": "04","yday": "93","isdst": "1","epoch": "1522864800","pretty": "2018.04.04 21:00 EEST","civil": "9:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Середа","weekday_name_night": "В ніч на Четвер","weekday_name_abbrev": "Ср","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "54", "metric": "12"},
+      "dewpoint": {"english": "43", "metric": "6"},
+      "condition": "Ясно",
+      "icon": "clear",
+      "icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+      "fctcode": "1",
+      "sky": "0",
+      "wspd": {"english": "6", "metric": "10"},
+      "wdir": {"dir": "Пд", "degrees": "171"},
+      "wx": "Безхмарно",
+      "uvi": "0",
+      "humidity": "66",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "54", "metric": "12"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "3",
+      "mslp": {"english": "29.99", "metric": "1016"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "22","hour_padded": "22","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "4","mday_padded": "04","yday": "93","isdst": "1","epoch": "1522868400","pretty": "2018.04.04 22:00 EEST","civil": "10:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Середа","weekday_name_night": "В ніч на Четвер","weekday_name_abbrev": "Ср","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "53", "metric": "12"},
+      "dewpoint": {"english": "43", "metric": "6"},
+      "condition": "Ясно",
+      "icon": "clear",
+      "icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+      "fctcode": "1",
+      "sky": "12",
+      "wspd": {"english": "6", "metric": "10"},
+      "wdir": {"dir": "Пд", "degrees": "180"},
+      "wx": "Безхмарно",
+      "uvi": "0",
+      "humidity": "69",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "53", "metric": "12"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "4",
+      "mslp": {"english": "29.99", "metric": "1016"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "23","hour_padded": "23","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "4","mday_padded": "04","yday": "93","isdst": "1","epoch": "1522872000","pretty": "2018.04.04 23:00 EEST","civil": "11:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Середа","weekday_name_night": "В ніч на Четвер","weekday_name_abbrev": "Ср","weekday_name_unlang": "Wednesday","weekday_name_night_unlang": "Wednesday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "51", "metric": "11"},
+      "dewpoint": {"english": "42", "metric": "6"},
+      "condition": "Ясно",
+      "icon": "clear",
+      "icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+      "fctcode": "1",
+      "sky": "20",
+      "wspd": {"english": "7", "metric": "11"},
+      "wdir": {"dir": "Пд", "degrees": "186"},
+      "wx": "Переважно безхмарно",
+      "uvi": "0",
+      "humidity": "71",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "51", "metric": "11"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "4",
+      "mslp": {"english": "29.99", "metric": "1016"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "0","hour_padded": "00","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522875600","pretty": "2018.04.05 00:00 EEST","civil": "12:00 AM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "50", "metric": "10"},
+      "dewpoint": {"english": "42", "metric": "6"},
+      "condition": "Ясно",
+      "icon": "clear",
+      "icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+      "fctcode": "1",
+      "sky": "23",
+      "wspd": {"english": "7", "metric": "11"},
+      "wdir": {"dir": "Пд", "degrees": "189"},
+      "wx": "Переважно безхмарно",
+      "uvi": "0",
+      "humidity": "73",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "50", "metric": "10"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "4",
+      "mslp": {"english": "29.99", "metric": "1016"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "1","hour_padded": "01","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522879200","pretty": "2018.04.05 01:00 EEST","civil": "1:00 AM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "50", "metric": "10"},
+      "dewpoint": {"english": "43", "metric": "6"},
+      "condition": "Ясно",
+      "icon": "clear",
+      "icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+      "fctcode": "1",
+      "sky": "28",
+      "wspd": {"english": "7", "metric": "11"},
+      "wdir": {"dir": "Пд", "degrees": "190"},
+      "wx": "Переважно безхмарно",
+      "uvi": "0",
+      "humidity": "77",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "50", "metric": "10"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "5",
+      "mslp": {"english": "29.99", "metric": "1016"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "2","hour_padded": "02","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522882800","pretty": "2018.04.05 02:00 EEST","civil": "2:00 AM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "48", "metric": "9"},
+      "dewpoint": {"english": "43", "metric": "6"},
+      "condition": "Невелика хмарність",
+      "icon": "partlycloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+      "fctcode": "2",
+      "sky": "39",
+      "wspd": {"english": "7", "metric": "11"},
+      "wdir": {"dir": "Пд", "degrees": "192"},
+      "wx": "Мінлива хмарність",
+      "uvi": "0",
+      "humidity": "80",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "48", "metric": "9"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "5",
+      "mslp": {"english": "30.0", "metric": "1016"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "3","hour_padded": "03","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522886400","pretty": "2018.04.05 03:00 EEST","civil": "3:00 AM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "48", "metric": "9"},
+      "dewpoint": {"english": "43", "metric": "6"},
+      "condition": "Невелика хмарність",
+      "icon": "partlycloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+      "fctcode": "2",
+      "sky": "55",
+      "wspd": {"english": "7", "metric": "11"},
+      "wdir": {"dir": "Пд-Пд-Зх", "degrees": "197"},
+      "wx": "Мінлива хмарність",
+      "uvi": "0",
+      "humidity": "82",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "48", "metric": "9"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "6",
+      "mslp": {"english": "29.99", "metric": "1016"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "4","hour_padded": "04","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522890000","pretty": "2018.04.05 04:00 EEST","civil": "4:00 AM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "47", "metric": "8"},
+      "dewpoint": {"english": "43", "metric": "6"},
+      "condition": "Переважно хмарно",
+      "icon": "mostlycloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/nt_mostlycloudy.gif",
+      "fctcode": "3",
+      "sky": "74",
+      "wspd": {"english": "7", "metric": "11"},
+      "wdir": {"dir": "Пд-Пд-Зх", "degrees": "193"},
+      "wx": "Значна хмарність",
+      "uvi": "0",
+      "humidity": "84",
+      "windchill": {"english": "43", "metric": "6"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "43", "metric": "6"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "7",
+      "mslp": {"english": "29.99", "metric": "1016"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "5","hour_padded": "05","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522893600","pretty": "2018.04.05 05:00 EEST","civil": "5:00 AM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "46", "metric": "8"},
+      "dewpoint": {"english": "43", "metric": "6"},
+      "condition": "Похмуро",
+      "icon": "cloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/nt_cloudy.gif",
+      "fctcode": "4",
+      "sky": "80",
+      "wspd": {"english": "7", "metric": "11"},
+      "wdir": {"dir": "Пд", "degrees": "182"},
+      "wx": "Хмарно",
+      "uvi": "0",
+      "humidity": "87",
+      "windchill": {"english": "43", "metric": "6"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "43", "metric": "6"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "7",
+      "mslp": {"english": "29.98", "metric": "1015"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "6","hour_padded": "06","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522897200","pretty": "2018.04.05 06:00 EEST","civil": "6:00 AM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "46", "metric": "8"},
+      "dewpoint": {"english": "43", "metric": "6"},
+      "condition": "Похмуро",
+      "icon": "cloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/nt_cloudy.gif",
+      "fctcode": "4",
+      "sky": "84",
+      "wspd": {"english": "7", "metric": "11"},
+      "wdir": {"dir": "Пд", "degrees": "175"},
+      "wx": "Хмарно",
+      "uvi": "0",
+      "humidity": "90",
+      "windchill": {"english": "43", "metric": "6"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "43", "metric": "6"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "8",
+      "mslp": {"english": "29.97", "metric": "1015"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "7","hour_padded": "07","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522900800","pretty": "2018.04.05 07:00 EEST","civil": "7:00 AM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "46", "metric": "8"},
+      "dewpoint": {"english": "43", "metric": "6"},
+      "condition": "Похмуро",
+      "icon": "cloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/cloudy.gif",
+      "fctcode": "4",
+      "sky": "89",
+      "wspd": {"english": "8", "metric": "13"},
+      "wdir": {"dir": "Пд", "degrees": "171"},
+      "wx": "Хмарно",
+      "uvi": "0",
+      "humidity": "89",
+      "windchill": {"english": "42", "metric": "6"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "42", "metric": "6"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "8",
+      "mslp": {"english": "29.97", "metric": "1015"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "8","hour_padded": "08","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522904400","pretty": "2018.04.05 08:00 EEST","civil": "8:00 AM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "47", "metric": "8"},
+      "dewpoint": {"english": "43", "metric": "6"},
+      "condition": "Похмуро",
+      "icon": "cloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/cloudy.gif",
+      "fctcode": "4",
+      "sky": "88",
+      "wspd": {"english": "8", "metric": "13"},
+      "wdir": {"dir": "Пд", "degrees": "170"},
+      "wx": "Хмарно",
+      "uvi": "0",
+      "humidity": "87",
+      "windchill": {"english": "42", "metric": "6"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "42", "metric": "6"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "7",
+      "mslp": {"english": "29.97", "metric": "1015"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "9","hour_padded": "09","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522908000","pretty": "2018.04.05 09:00 EEST","civil": "9:00 AM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "50", "metric": "10"},
+      "dewpoint": {"english": "44", "metric": "7"},
+      "condition": "Похмуро",
+      "icon": "cloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/cloudy.gif",
+      "fctcode": "4",
+      "sky": "82",
+      "wspd": {"english": "9", "metric": "14"},
+      "wdir": {"dir": "Пд-Пд-Сх", "degrees": "168"},
+      "wx": "Хмарно",
+      "uvi": "1",
+      "humidity": "81",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "50", "metric": "10"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "5",
+      "mslp": {"english": "29.97", "metric": "1015"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "10","hour_padded": "10","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522911600","pretty": "2018.04.05 10:00 EEST","civil": "10:00 AM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "52", "metric": "11"},
+      "dewpoint": {"english": "45", "metric": "7"},
+      "condition": "Похмуро",
+      "icon": "cloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/cloudy.gif",
+      "fctcode": "4",
+      "sky": "87",
+      "wspd": {"english": "9", "metric": "14"},
+      "wdir": {"dir": "Пд-Пд-Сх", "degrees": "167"},
+      "wx": "Хмарно",
+      "uvi": "1",
+      "humidity": "75",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "52", "metric": "11"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "4",
+      "mslp": {"english": "29.96", "metric": "1015"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "11","hour_padded": "11","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522915200","pretty": "2018.04.05 11:00 EEST","civil": "11:00 AM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "AM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "54", "metric": "12"},
+      "dewpoint": {"english": "45", "metric": "7"},
+      "condition": "Похмуро",
+      "icon": "cloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/cloudy.gif",
+      "fctcode": "4",
+      "sky": "94",
+      "wspd": {"english": "10", "metric": "16"},
+      "wdir": {"dir": "Пд-Пд-Сх", "degrees": "165"},
+      "wx": "Хмарно",
+      "uvi": "1",
+      "humidity": "72",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "54", "metric": "12"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "3",
+      "mslp": {"english": "29.95", "metric": "1014"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "12","hour_padded": "12","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522918800","pretty": "2018.04.05 12:00 EEST","civil": "12:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "56", "metric": "13"},
+      "dewpoint": {"english": "46", "metric": "8"},
+      "condition": "Похмуро",
+      "icon": "cloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/cloudy.gif",
+      "fctcode": "4",
+      "sky": "93",
+      "wspd": {"english": "11", "metric": "18"},
+      "wdir": {"dir": "Пд-Пд-Сх", "degrees": "166"},
+      "wx": "Хмарно",
+      "uvi": "2",
+      "humidity": "67",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "56", "metric": "13"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "2",
+      "mslp": {"english": "29.95", "metric": "1014"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "13","hour_padded": "13","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522922400","pretty": "2018.04.05 13:00 EEST","civil": "1:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "58", "metric": "14"},
+      "dewpoint": {"english": "45", "metric": "7"},
+      "condition": "Похмуро",
+      "icon": "cloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/cloudy.gif",
+      "fctcode": "4",
+      "sky": "95",
+      "wspd": {"english": "11", "metric": "18"},
+      "wdir": {"dir": "Пд-Пд-Сх", "degrees": "165"},
+      "wx": "Хмарно",
+      "uvi": "2",
+      "humidity": "62",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "58", "metric": "14"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "1",
+      "mslp": {"english": "29.93", "metric": "1014"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "14","hour_padded": "14","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522926000","pretty": "2018.04.05 14:00 EEST","civil": "2:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "60", "metric": "16"},
+      "dewpoint": {"english": "46", "metric": "8"},
+      "condition": "Похмуро",
+      "icon": "cloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/cloudy.gif",
+      "fctcode": "4",
+      "sky": "95",
+      "wspd": {"english": "12", "metric": "19"},
+      "wdir": {"dir": "Пд-Пд-Сх", "degrees": "168"},
+      "wx": "Хмарно",
+      "uvi": "2",
+      "humidity": "61",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "60", "metric": "16"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "0",
+      "mslp": {"english": "29.92", "metric": "1013"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "15","hour_padded": "15","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522929600","pretty": "2018.04.05 15:00 EEST","civil": "3:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "61", "metric": "16"},
+      "dewpoint": {"english": "46", "metric": "8"},
+      "condition": "Похмуро",
+      "icon": "cloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/cloudy.gif",
+      "fctcode": "4",
+      "sky": "98",
+      "wspd": {"english": "13", "metric": "21"},
+      "wdir": {"dir": "Пд", "degrees": "173"},
+      "wx": "Хмарно",
+      "uvi": "1",
+      "humidity": "59",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "61", "metric": "16"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "0",
+      "mslp": {"english": "29.91", "metric": "1013"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "16","hour_padded": "16","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522933200","pretty": "2018.04.05 16:00 EEST","civil": "4:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "61", "metric": "16"},
+      "dewpoint": {"english": "47", "metric": "8"},
+      "condition": "Похмуро",
+      "icon": "cloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/cloudy.gif",
+      "fctcode": "4",
+      "sky": "96",
+      "wspd": {"english": "13", "metric": "21"},
+      "wdir": {"dir": "Пд", "degrees": "172"},
+      "wx": "Хмарно",
+      "uvi": "1",
+      "humidity": "60",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "61", "metric": "16"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "0",
+      "mslp": {"english": "29.9", "metric": "1013"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "17","hour_padded": "17","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522936800","pretty": "2018.04.05 17:00 EEST","civil": "5:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "61", "metric": "16"},
+      "dewpoint": {"english": "47", "metric": "8"},
+      "condition": "Похмуро",
+      "icon": "cloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/cloudy.gif",
+      "fctcode": "4",
+      "sky": "88",
+      "wspd": {"english": "12", "metric": "19"},
+      "wdir": {"dir": "Пд", "degrees": "174"},
+      "wx": "Хмарно",
+      "uvi": "0",
+      "humidity": "58",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "61", "metric": "16"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "1",
+      "mslp": {"english": "29.89", "metric": "1012"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "18","hour_padded": "18","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522940400","pretty": "2018.04.05 18:00 EEST","civil": "6:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "61", "metric": "16"},
+      "dewpoint": {"english": "46", "metric": "8"},
+      "condition": "Переважно хмарно",
+      "icon": "mostlycloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/mostlycloudy.gif",
+      "fctcode": "3",
+      "sky": "74",
+      "wspd": {"english": "10", "metric": "16"},
+      "wdir": {"dir": "Пд", "degrees": "175"},
+      "wx": "Значна хмарність",
+      "uvi": "0",
+      "humidity": "58",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "61", "metric": "16"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "1",
+      "mslp": {"english": "29.89", "metric": "1012"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "19","hour_padded": "19","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522944000","pretty": "2018.04.05 19:00 EEST","civil": "7:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "59", "metric": "15"},
+      "dewpoint": {"english": "46", "metric": "8"},
+      "condition": "Переважно хмарно",
+      "icon": "mostlycloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/mostlycloudy.gif",
+      "fctcode": "3",
+      "sky": "61",
+      "wspd": {"english": "9", "metric": "14"},
+      "wdir": {"dir": "Пд", "degrees": "169"},
+      "wx": "Значна хмарність",
+      "uvi": "0",
+      "humidity": "62",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "59", "metric": "15"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "2",
+      "mslp": {"english": "29.89", "metric": "1012"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "20","hour_padded": "20","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522947600","pretty": "2018.04.05 20:00 EEST","civil": "8:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "57", "metric": "14"},
+      "dewpoint": {"english": "46", "metric": "8"},
+      "condition": "Невелика хмарність",
+      "icon": "partlycloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+      "fctcode": "2",
+      "sky": "46",
+      "wspd": {"english": "8", "metric": "13"},
+      "wdir": {"dir": "Пд-Пд-Сх", "degrees": "168"},
+      "wx": "Мінлива хмарність",
+      "uvi": "0",
+      "humidity": "66",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "57", "metric": "14"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "3",
+      "mslp": {"english": "29.9", "metric": "1013"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "21","hour_padded": "21","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522951200","pretty": "2018.04.05 21:00 EEST","civil": "9:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "55", "metric": "13"},
+      "dewpoint": {"english": "45", "metric": "7"},
+      "condition": "Невелика хмарність",
+      "icon": "partlycloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+      "fctcode": "2",
+      "sky": "36",
+      "wspd": {"english": "8", "metric": "13"},
+      "wdir": {"dir": "Пд-Пд-Сх", "degrees": "168"},
+      "wx": "Мінлива хмарність",
+      "uvi": "0",
+      "humidity": "69",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "55", "metric": "13"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "4",
+      "mslp": {"english": "29.9", "metric": "1013"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "22","hour_padded": "22","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522954800","pretty": "2018.04.05 22:00 EEST","civil": "10:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "54", "metric": "12"},
+      "dewpoint": {"english": "45", "metric": "7"},
+      "condition": "Невелика хмарність",
+      "icon": "partlycloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+      "fctcode": "2",
+      "sky": "45",
+      "wspd": {"english": "8", "metric": "13"},
+      "wdir": {"dir": "Пд", "degrees": "174"},
+      "wx": "Мінлива хмарність",
+      "uvi": "0",
+      "humidity": "70",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "54", "metric": "12"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "4",
+      "mslp": {"english": "29.91", "metric": "1013"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "23","hour_padded": "23","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "5","mday_padded": "05","yday": "94","isdst": "1","epoch": "1522958400","pretty": "2018.04.05 23:00 EEST","civil": "11:00 PM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "Четвер","weekday_name_night": "В ніч на П’ятницю","weekday_name_abbrev": "Чт","weekday_name_unlang": "Thursday","weekday_name_night_unlang": "Thursday Night","ampm": "PM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "53", "metric": "12"},
+      "dewpoint": {"english": "44", "metric": "7"},
+      "condition": "Невелика хмарність",
+      "icon": "partlycloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+      "fctcode": "2",
+      "sky": "47",
+      "wspd": {"english": "9", "metric": "14"},
+      "wdir": {"dir": "Пд", "degrees": "178"},
+      "wx": "Мінлива хмарність",
+      "uvi": "0",
+      "humidity": "72",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "53", "metric": "12"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "4",
+      "mslp": {"english": "29.92", "metric": "1013"}
+    }
+  ,
+    {
+      "FCTTIME": {
+        "hour": "0","hour_padded": "00","min": "00","min_unpadded": "0","sec": "0","year": "2018","mon": "4","mon_padded": "04","mon_abbrev": "Apr","mday": "6","mday_padded": "06","yday": "95","isdst": "1","epoch": "1522962000","pretty": "2018.04.06 00:00 EEST","civil": "12:00 AM","month_name": "Квітень","month_name_abbrev": "Кві","weekday_name": "П’ятниця","weekday_name_night": "В ніч на Суботу","weekday_name_abbrev": "Пт","weekday_name_unlang": "Friday","weekday_name_night_unlang": "Friday Night","ampm": "AM","tz": "","age": "","UTCDATE": ""
+      },
+      "temp": {"english": "52", "metric": "11"},
+      "dewpoint": {"english": "44", "metric": "7"},
+      "condition": "Невелика хмарність",
+      "icon": "partlycloudy",
+      "icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+      "fctcode": "2",
+      "sky": "52",
+      "wspd": {"english": "9", "metric": "14"},
+      "wdir": {"dir": "Пд", "degrees": "180"},
+      "wx": "Мінлива хмарність",
+      "uvi": "0",
+      "humidity": "73",
+      "windchill": {"english": "-9999", "metric": "-9999"},
+      "heatindex": {"english": "-9999", "metric": "-9999"},
+      "feelslike": {"english": "52", "metric": "11"},
+      "qpf": {"english": "0.0", "metric": "0"},
+      "snow": {"english": "0.0", "metric": "0"},
+      "pop": "4",
+      "mslp": {"english": "29.92", "metric": "1013"}
+    }
+  ]
+}
